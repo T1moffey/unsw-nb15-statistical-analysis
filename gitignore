@@ -1,0 +1,15 @@
+# Виртуальные окружения и файлы Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter, IDE и системные файлы
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Исходные датасеты UNSW-NB15 (загружаются отдельно)
+UNSW_NB15_training-set*.csv
+UNSW_NB15_testing-set*.csv

@@ -1,0 +1,11 @@
+﻿Категория,Число,"Доля, %"
+Normal,56000,31.94
+Generic,40000,22.81
+Exploits,33393,19.04
+Fuzzers,18184,10.37
+DoS,12264,6.99
+Reconnaissance,10491,5.98
+Analysis,2000,1.14
+Backdoor,1746,1.0
+Shellcode,1133,0.65
+Worms,130,0.07

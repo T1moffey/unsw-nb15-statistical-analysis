@@ -1,0 +1,3 @@
+﻿dataset,rows,columns,missing,infinite,blank_strings,extra_spaces,invalid_labels,label_attack_cat_mismatch,negative_expected_nonnegative,duplicates_without_id
+train,175341,45,0,0,0,0,0,0,0,67601
+test,82332,45,0,0,0,0,0,0,0,26387
